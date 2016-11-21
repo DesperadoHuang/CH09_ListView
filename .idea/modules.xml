@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CH09_01_CRUD_ListView/CH09_01_CRUD_ListView.iml" filepath="$PROJECT_DIR$/CH09_01_CRUD_ListView/CH09_01_CRUD_ListView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH09_01_FastfoodListView/CH09_01_FastfoodListView.iml" filepath="$PROJECT_DIR$/CH09_01_FastfoodListView/CH09_01_FastfoodListView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH09_ListView.iml" filepath="$PROJECT_DIR$/CH09_ListView.iml" />
+    </modules>
+  </component>
+</project>

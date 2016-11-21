@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CH09_01_FastfoodListView</string>
+    <string-array name="fastfood">
+        <item>test 1</item>
+        <item>test 2</item>
+        <item>test 3</item>
+    </string-array>
+</resources>
