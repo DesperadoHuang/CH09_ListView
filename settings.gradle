@@ -1,1 +1,1 @@
-include ':CH09_01_FastfoodListView', ':CH09_01_CRUD_ListView'
+include ':CH09_01_FastfoodListView', ':CH09_01_CRUD_ListView', ':CH09_02_FastfoodListView_II'
