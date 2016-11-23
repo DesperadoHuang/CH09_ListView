@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/CH09_01_FastfoodListView/CH09_01_FastfoodListView.iml" filepath="$PROJECT_DIR$/CH09_01_FastfoodListView/CH09_01_FastfoodListView.iml" />
       <module fileurl="file://$PROJECT_DIR$/CH09_02_FastfoodListView_II/CH09_02_FastfoodListView_II.iml" filepath="$PROJECT_DIR$/CH09_02_FastfoodListView_II/CH09_02_FastfoodListView_II.iml" />
       <module fileurl="file://$PROJECT_DIR$/CH09_03_SimpleAdapter_ListView/CH09_03_SimpleAdapter_ListView.iml" filepath="$PROJECT_DIR$/CH09_03_SimpleAdapter_ListView/CH09_03_SimpleAdapter_ListView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH09_04_EvenBetterListActivity/CH09_04_EvenBetterListActivity.iml" filepath="$PROJECT_DIR$/CH09_04_EvenBetterListActivity/CH09_04_EvenBetterListActivity.iml" />
       <module fileurl="file://$PROJECT_DIR$/CH09_ListView.iml" filepath="$PROJECT_DIR$/CH09_ListView.iml" />
     </modules>
   </component>

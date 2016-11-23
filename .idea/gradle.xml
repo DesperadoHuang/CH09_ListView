@@ -13,6 +13,7 @@
             <option value="$PROJECT_DIR$/CH09_01_FastfoodListView" />
             <option value="$PROJECT_DIR$/CH09_02_FastfoodListView_II" />
             <option value="$PROJECT_DIR$/CH09_03_SimpleAdapter_ListView" />
+            <option value="$PROJECT_DIR$/CH09_04_EvenBetterListActivity" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
