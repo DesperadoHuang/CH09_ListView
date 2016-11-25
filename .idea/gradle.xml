@@ -3,9 +3,8 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
-        <option name="distributionType" value="LOCAL" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleHome" value="C:\Program Files\Android\Android Studio\gradle\gradle-2.14.1" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
@@ -14,6 +13,7 @@
             <option value="$PROJECT_DIR$/CH09_02_FastfoodListView_II" />
             <option value="$PROJECT_DIR$/CH09_03_SimpleAdapter_ListView" />
             <option value="$PROJECT_DIR$/CH09_04_EvenBetterListActivity" />
+            <option value="$PROJECT_DIR$/CH09_05_ExpandableListView" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
