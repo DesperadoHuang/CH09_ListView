@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/CH09_04_EvenBetterListActivity/CH09_04_EvenBetterListActivity.iml" filepath="$PROJECT_DIR$/CH09_04_EvenBetterListActivity/CH09_04_EvenBetterListActivity.iml" />
       <module fileurl="file://$PROJECT_DIR$/CH09_05_ExpandableListView/CH09_05_ExpandableListView.iml" filepath="$PROJECT_DIR$/CH09_05_ExpandableListView/CH09_05_ExpandableListView.iml" />
       <module fileurl="file://$PROJECT_DIR$/CH09_06_RecyclerView/CH09_06_RecyclerView.iml" filepath="$PROJECT_DIR$/CH09_06_RecyclerView/CH09_06_RecyclerView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH09_06_RecyclerView_II/CH09_06_RecyclerView_II.iml" filepath="$PROJECT_DIR$/CH09_06_RecyclerView_II/CH09_06_RecyclerView_II.iml" />
       <module fileurl="file://$PROJECT_DIR$/CH09_ListView.iml" filepath="$PROJECT_DIR$/CH09_ListView.iml" />
     </modules>
   </component>

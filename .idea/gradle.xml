@@ -16,6 +16,7 @@
             <option value="$PROJECT_DIR$/CH09_04_EvenBetterListActivity" />
             <option value="$PROJECT_DIR$/CH09_05_ExpandableListView" />
             <option value="$PROJECT_DIR$/CH09_06_RecyclerView" />
+            <option value="$PROJECT_DIR$/CH09_06_RecyclerView_II" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
